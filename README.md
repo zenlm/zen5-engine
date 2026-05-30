@@ -32,7 +32,7 @@ The Makefile still produces `ds4`, `ds4-server`, `ds4-bench` as primary artifact
 
 ## Run
 
-After building, download the DeepSeek V4 Flash weights (96/128 GB RAM class recommended):
+After building, download the V4 Flash weights (96/128 GB RAM class recommended):
 
 ```sh
 ./download_model.sh q2-imatrix
@@ -62,4 +62,4 @@ Anything not in that list should be sent upstream first.
 
 * **Upstream:** [antirez/ds4](https://github.com/antirez/ds4) — Salvatore Sanfilippo and the ds4.c authors.
 * **Lineage:** [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) — Georgi Gerganov and contributors. GGUF quant formats, dot kernels, and engineering knowledge that made this possible. Their copyright is preserved in [`LICENSE`](LICENSE).
-* **Model:** [DeepSeek V4 Flash](https://huggingface.co/deepseek-ai) — the model this engine serves.
+* **Model:** [ V4 Flash](https://huggingface.co/deepseek-ai) — the model this engine serves.
