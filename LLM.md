@@ -27,7 +27,7 @@
 | `gguf-tools/` | offline GGUF gen, imatrix collection, quality testing |
 | `dir-steering/` | activation-direction steering data |
 | `speed-bench/` | benchmark CSVs and plots |
-| `tests/test-vectors/` | official DeepSeek V4 Flash continuation vectors |
+| `tests/test-vectors/` | official V4 Flash continuation vectors |
 
 ## Sibling context
 
