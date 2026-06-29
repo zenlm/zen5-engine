@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="zen5-engine" width="880"></p>
+
 # Zen5
 
 **Zen5** is the [zenlm](https://zenlm.org) inference engine for large-context, low-active-parameter MoE models on Apple Silicon and CUDA.
